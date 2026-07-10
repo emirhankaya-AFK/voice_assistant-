@@ -1,0 +1,5 @@
+{
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+  "sample_rate": 16000,
+  "record_duration": 5
+}
